@@ -18,3 +18,9 @@ Model data is provided as Blender file(Blender 2.73+).
 ## Copyright
 
 Light Transport Equation Orb is modeled by https://github.com/MirageYM
+
+
+## Utilities.
+
+Do you want to use this Orb model in your renderer?
+Export the model as wavefront .obj in Blender, then tinyobjloader would be your friend https://github.com/syoyo/tinyobjloader
